@@ -4,7 +4,4 @@
 my Name is **Ali Hamdan** <br>
 i m a front-end free lencer
 
-<br>
-ali_hamdane@hotmail.com
-
 [click here to send email](mailto:ali_hamdane@hotmail.com)
