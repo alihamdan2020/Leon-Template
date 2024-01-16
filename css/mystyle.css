@@ -98,7 +98,7 @@ body{
     .huge-background{
       background-image: url('../images/5304228.jpg');
     background-size:100% 100%;
-    height: calc(100vh - 30px);
+    height: calc(100dvh - 30px);
      position: relative;
     }
     .huge-background .text-content{
